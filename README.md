@@ -1,16 +1,14 @@
 # MIST4610-Project2-Group4
 
-# MIST4610-Project2-Group7
-
 ## Team Name: 
-39217 Group 7
+61608 Group 4
 
 ## Team Members:
-1. Chen, Jennie [@JennieC044](https://github.com/JennieC044)
-2. Ferington, Nick [@NickFer5](https://github.com/NickFer5)
-3. Lawler, Elena [@eglawler03](https://github.com/eglawler03)
-4. Pham, Shawn [@ShawnPham21](https://github.com/ShawnPham21)
-5. Sadalge, Roshni [@roshnisadalge07](https://github.com/roshnisadalge07)
+1. An, Ben [@benan03](https://github.com/benan03)
+2. Burt, Keegan[@keeganburt24](https://github.com/keeganburt24)
+3. Cheng, Hsin [@hc83710](https://github.com/hc83710)
+4. Cho, Nick [@nichooo4](https://github.com/nichooo4)
+5. Shields, David [@DubNation44](https://github.com/DubNation44)
 
 ## Dataset Overview
 Our chosen dataset is titled "Weekly Provisional Counts of Deaths by State and Select Causes, 2020-2023", and it was obtained from the U.S. Department of Health and Human Services. The dataset shows the number of individuals who died from fourteen causes such as Natural Causes, Malignant Neoplasms, Diabetes mellitus, Alzheimer's Disease, Influenza & Pneumonia, and COVID-19. 
