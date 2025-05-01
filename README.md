@@ -29,14 +29,18 @@ This question is important because LA has one of the highest crime rates among m
 
 
 ## Question 2
-What are the top five causes of death for the Southeast region compared to the United States, and how have these trends evolved over the years?
+Has Defunding the Police Affected Crime in LA?
 
 ![image](https://github.com/user-attachments/assets/19927928-f7dd-417f-b62f-8e76691c2d05)
 
+CHANGE THE GRAPH!
+To explore the impact of recent police budget changes, we asked: Has defunding the police affected crime in Los Angeles? This question is especially relevant given the national conversation around policing and public safety reform following 2020.
 
-We visualized this question through two line graphs combined through the Dashboard feature on Tableau; the top graph represented the Southeast region and the bottom graph represented the United States. The top five causes were natural causes, diseases of the heart, malignant neoplasms, COVID-19 as a multiple cause of death, and COVID-19 as an underlying cause of death. The states we included in the Southeast region were Alabama, Florida, Georgia, Mississippi, North Carolina, South Carolina, and Tennessee. 
+We visualized this question using a line graph created in Tableau, which displays the annual number of reported crime cases in Los Angeles from 2020 to 2024. The graph focuses on the four LAPD areas with the highest cumulative crime counts: Central, 77th Street, Pacific, and Southwest. By filtering the dataset to include only these regions and organizing the results by year, we were able to observe meaningful patterns in crime trends.
 
-This question is important because identifying evolving patterns in causes of death can help in strategizing future healthcare policies. Healthcare professionals can understand the most prevalent causes of death and work towards advancing healthcare to lower these numbers. The American Heart Association discusses some of the advances made in the year of 2023 to held reduce the risk of cardiovascular diseases. For example, healthcare professionals are working with a new drug would help prevent the presence of hypertension which could consequently lower the number of heart attacks. Advances such as these could explain why we are seeing a downward trend in mortality rates. Separating the data by region adds interest to the question as it allows us to identify any difference between different parts of the United States.
+This question matters because understanding how crime rates have evolved in the wake of police budget changes can help guide future resource allocation and public safety strategies. From 2020 to 2022, crime increased significantly in each of the four areas, possibly due to reduced police presence, broader social unrest, or pandemic-related factors. However, from 2023 to 2024, we observed a sharp decline in crime rates across all regions. This reversal may reflect delayed effects of earlier reforms, adjustments in police deployment strategies, or improvements in community-based safety initiatives.
+
+By focusing on high-crime regions and tracking these shifts over time, this analysis provides valuable insights for policymakers, law enforcement, and local communities seeking to strike a balance between public safety and social justice.
 
 ## Manipulations
 For our second question, we decided to only focus on the top five causes of mortality and filtered out the other nine causes. The mortality rates for the excluded nine causes were incredibly similar, and we found that this made our graphs look messy and hard to read. By only showing the top five causes we could understand the graph better and make better conclusions based off the results.
