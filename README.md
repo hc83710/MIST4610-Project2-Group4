@@ -54,7 +54,7 @@ Specifically, we chose to include only the four LAPD divisions with the highest 
 We also restricted the data to crime cases reported to the time range between 2020 and 2024 by filtering the "Year" of "Date Occ" column. This allowed us to examine crime trends during a time period when discussions around police funding were most prominent. These manipulations help make the line graph cleaner and the trends more distinct, enabling us to draw more meaningful conclusions about potential shifts in crime related to police defunding.
 
 ## Analysis and Results
-
+Upon further analysis, we realized that the data in 2024 may be still incomplete to date due to LAPD's adoption of a new "Records Management System." It is possible that the department is still working on consolidating the new and old records in 2025. 
 
 (((((((((((((In terms of question one, we can see that mortality trends for both diseases are declining, reflecting the impact of public health interventions (e.g. vaccines and awareness campaigns). Mortality rates are higher in densely populated states and lower in states with fewer people, emphasizing regional differences. California, Florida, and Texas had the highest mortality rates for both causes and this could be attributed to their population size. According to the Population Reference Bureau, in 2020, California, Florida, and Texas have the highest populations for those over the age of 65, which can explain why these trends appear in the visualizations. COVID-19 is a novel virus, resulting in much higher mortality rates across all states. Influenza is a seasonal diseases with established vaccines and treatments, leading to lower or zero mortality in some states.
 
