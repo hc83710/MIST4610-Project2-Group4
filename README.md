@@ -19,6 +19,7 @@ Through this information, we were able to analyze crime distribution and trends,
 
 ## Question 1
 Where should LAPD send more officers to reduce crime?
+![image](https://github.com/user-attachments/assets/2a3c7a88-65ed-4278-958a-a00edf2c762f)
 
 We chose to explore this question visually using a heatmap and a bar graph that illustrate the density and location of violent crimes across Los Angeles regions. The central focus of this analysis is to determine where LAPD resources—particularly patrol officers—can be deployed most effectively to reduce crime. Violent crimes such as murder, manslaughter, rape, robbery, and aggravated assault were prioritized, as these incidents have the most immediate and serious consequences for public safety.
 
