@@ -52,13 +52,19 @@ By focusing on high-crime regions and tracking these shifts over time, this anal
 
 
 For our second question, we used "Dr No" column to identify unique crime cases, counting them and putting them on the Rows section of the TABLEAU graph. We then put the "Year" element of "Date Occ" column to the Columns section. By doing these steps, we formed a graph that shows the increase and decrease of crime cases over the years. 
+
 <img width="477" alt="image" src="https://github.com/user-attachments/assets/5e01e28a-16d0-42a4-8414-b1cea8a4d807" />
 
+
 We also applied a few key filters to help clarify trends and focus our analysis. Specifically, we chose to include only the four LAPD divisions with the highest total crime counts: Central, 77th Street, Pacific, and Southwest, by filtering the "Area Name" column. Including all 21 areas would make the visualization cluttered and difficult to interpret, so narrowing the focus helped emphasize the areas most relevant to our research.
+
 <img width="449" alt="image" src="https://github.com/user-attachments/assets/835e9f5c-8edc-4db5-b560-63ae93e9c03a" />
 
+
 In addition, we restricted the data to crime cases reported to the time range between 2020 and 2024 by filtering the "Year" of "Date Occ" column. This allowed us to examine crime trends during a time period when discussions around police funding were most prominent. These manipulations help make the line graph cleaner and the trends more distinct, enabling us to draw more meaningful conclusions about potential shifts in crime related to police defunding.
+
 <img width="435" alt="image" src="https://github.com/user-attachments/assets/0288c85c-6cd5-4fe3-ab19-8da66b725e0b" />
+
 
 
 ## Analysis and Results
