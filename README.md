@@ -57,6 +57,4 @@ In terms of question one, we can see that mortality trends for both diseases are
 For our second question, natural causes maintain the leading causes of mortality throughout 2020-2023. COVID-19 spikes in 2020 and 2021, but tapers off in 2022 and 2023. Regardless, the deaths from natural causes, heart diseases, and malignant neoplasms were still higher than deaths from COVID-19. Diseases of the heart and malignant neoplasms (cancerous tumors) showed relatively consistent patterns over the course of the four years yet continued to be significant contributors to overall mortality. For each cause of death, there was a downward trend from 2023-2024, which could indicate better healthcare and a higher quality of overall health. The gap between COVID-19 deaths and other causes of death began to widen from the end of 2021 to 2023, which again could show the progress made on handling the pandemic within the country. In terms of the Southeast region itself, the trends within the region reflected the trends within the United States very similarly. The number of deaths in the Southeast made up around 10% of the deaths in the United States. 
 
 ## Sources
-(https://www.cdc.gov/pcd/issues/2022/21_0414.htm)
-(https://www.heart.org/en/around-the-aha/aha-names-top-advances-in-cardiovascular-disease-research-for-2023)
-(https://www.prb.org/resources/which-us-states-are-the-oldest/)
+(LAPD OpenData. Crime Data from 2020 to Present. Data.gov, updated April 19, 2025, https://catalog.data.gov/dataset/crime-data-from-2020-to-present. )
