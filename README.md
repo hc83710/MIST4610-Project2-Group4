@@ -47,11 +47,11 @@ This question matters because understanding how crime rates have evolved in the 
 By focusing on high-crime regions and tracking these shifts over time, this analysis provides valuable insights for policymakers, law enforcement, and local communities seeking to strike a balance between public safety and social justice.
 
 ## Manipulations
-For our second question, we applied a few key filters to help clarify trends and focus our analysis. 
+For our second question, we used Dr No to identify unique crime cases, counting them and putting them on the row section of the graph. 
 
-Specifically, we chose to include only the four LAPD divisions with the highest total crime counts: Central, 77th Street, Pacific, and Southwest, by filtering the "Area Name" column. Including all 21 areas would make the visualization cluttered and difficult to interpret, so narrowing the focus helped emphasize the areas most relevant to our research.
+We also applied a few key filters to help clarify trends and focus our analysis. Specifically, we chose to include only the four LAPD divisions with the highest total crime counts: Central, 77th Street, Pacific, and Southwest, by filtering the "Area Name" column. Including all 21 areas would make the visualization cluttered and difficult to interpret, so narrowing the focus helped emphasize the areas most relevant to our research.
 
-We also restricted the data to crime cases reported to the time range between 2020 and 2024 by filtering the "Year" of "Date Occ" column. This allowed us to examine crime trends during a time period when discussions around police funding were most prominent. These manipulations help make the line graph cleaner and the trends more distinct, enabling us to draw more meaningful conclusions about potential shifts in crime related to police defunding.
+In addition, we restricted the data to crime cases reported to the time range between 2020 and 2024 by filtering the "Year" of "Date Occ" column. This allowed us to examine crime trends during a time period when discussions around police funding were most prominent. These manipulations help make the line graph cleaner and the trends more distinct, enabling us to draw more meaningful conclusions about potential shifts in crime related to police defunding.
 
 ## Analysis and Results
 Upon further analysis, we realized that the data in 2024 may be still incomplete to date due to LAPD's adoption of a new "Records Management System" mentioned on its webpage. It is possible that the department is still working on consolidating the new and old records for the year 2024, hence the sharp decline of crime records for the year. 
