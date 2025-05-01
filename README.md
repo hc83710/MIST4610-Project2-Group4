@@ -18,16 +18,15 @@ The dataset features a variety of useful fields such as the case number (DR_NO),
 Through this information, we were able to analyze crime distribution and trends, examine the frequency of violent incidents, and explore how external factors—such as shifts in police funding—may have influenced overall crime rates in Los Angeles over the past five years.
 
 ## Question 1
-How do mortality trends for COVID-19 and Influenza & Pneumonia compare across different states from 2020-2023?
+Where should LAPD send more officers to reduce crime?
 
-![image](https://github.com/user-attachments/assets/3d06f021-dcbc-48db-81d6-0db09d83f34b)
+We chose to explore this question visually using a heatmap and a bar graph that illustrate the density and location of violent crimes across Los Angeles regions. The central focus of this analysis is to determine where LAPD resources—particularly patrol officers—can be deployed most effectively to reduce crime. Violent crimes such as murder, manslaughter, rape, robbery, and aggravated assault were prioritized, as these incidents have the most immediate and serious consequences for public safety.
+
+The heatmap shows clusters of high crime density, particularly in certain central and southern areas of LA. These regions are highlighted in dark red, signaling a greater concentration of violent crime. The accompanying bar chart titled "Number of Crimes per Square Mile by Region" identifies Central LA as having the highest crime rate, followed by regions like 77th Street, Southwest, and Southeast. These visuals together provide a strong case for reallocating or increasing officer presence in these high-density zones to deter crime, respond faster, and increase community protection.
+
+This question is important because LA has one of the highest crime rates among major U.S. cities, and efficient allocation of law enforcement is key to resource management. Understanding where violent crime is concentrated allows law enforcement to act strategically rather than reactively. Ultimately, this question helps guide smarter decisions in policing and promotes a more data-driven approach to public safety.
 
 
-We chose to represent this question visually through two bar graphs. Each bar is one of the fifty states and each year is represented by a different color on each bar.
-
-The comparison of COVID-19 and Influenza & Pneumonia mortality trends across states from 2020 to 2023, as represented in the graph, is an important question because it highlights variations in public health outcomes during overlapping pandemic years. A critical factor of this question lies in understanding the social determinants of health and their role in shaping public health outcomes. Geographic disparities in mortality rates can highlight how systemic factors—such as socioeconomic status, access to healthcare, and regional public health infrastructure—affect different populations. For example, according to an article by the CDC, areas with higher poverty levels and lower access to healthcare experienced disproportionate impacts during the COVID-19 pandemic, with mortality trends reflecting these inequalities​. This question overall is socially significant because it sheds light on how systemic inequalities manifest geographically, impacting not just COVID-19 outcomes but also co-occurring illnesses like influenza and pneumonia, which share similar pathways in affecting vulnerable populations. 
-
-This question is particularly interesting as it underscores potential disparities among states, which may relate to healthcare access, population density, policy differences, or public health responses during these years. Observing patterns such as higher mortality rates in certain states or notable changes from year to year can guide discussions about resource allocation, preparedness for respiratory illnesses, and long-term health strategies. Understanding such trends can provide insights into areas most impacted and inform strategies to mitigate future mortality rates.
 
 ## Question 2
 What are the top five causes of death for the Southeast region compared to the United States, and how have these trends evolved over the years?
