@@ -47,7 +47,10 @@ This question matters because understanding how crime rates have evolved in the 
 By focusing on high-crime regions and tracking these shifts over time, this analysis provides valuable insights for policymakers, law enforcement, and local communities seeking to strike a balance between public safety and social justice.
 
 ## Manipulations
-For our second question, we used Dr No to identify unique crime cases, counting them and putting them on the row section of the graph. 
+
+The manipulations for the first question is detailed in the previous section under the heat map. 
+
+For our second question, we used "Dr No" column to identify unique crime cases, counting them and putting them on the Rows section of the TABLEAU graph. We then put the "Year" element of "Date Occ" column to the Columns section. By doing these steps, we formed a graph that shows the increase and decrease of crime cases over the years. 
 
 We also applied a few key filters to help clarify trends and focus our analysis. Specifically, we chose to include only the four LAPD divisions with the highest total crime counts: Central, 77th Street, Pacific, and Southwest, by filtering the "Area Name" column. Including all 21 areas would make the visualization cluttered and difficult to interpret, so narrowing the focus helped emphasize the areas most relevant to our research.
 
