@@ -11,11 +11,11 @@
 5. Shields, David [@DubNation44](https://github.com/DubNation44)
 
 ## Dataset Overview
-Our chosen dataset is titled "Weekly Provisional Counts of Deaths by State and Select Causes, 2020-2023", and it was obtained from the U.S. Department of Health and Human Services. The dataset shows the number of individuals who died from fourteen causes such as Natural Causes, Malignant Neoplasms, Diabetes mellitus, Alzheimer's Disease, Influenza & Pneumonia, and COVID-19. 
+Our chosen dataset is titled "Crime Data from 2020 to Present", and it was obtained from the Los Angeles Police Department via Data.gov. The dataset records crime incidents reported by the LAPD beginning in 2020 and is updated on a bi-weekly basis. It includes data from original paper reports, which may contain minor inaccuracies or incomplete fields due to system transitions and reporting delays.
 
-The data is divided up by year (ranging from 2020-2023) and further specified by the week. The "Jurisdiction" column of the dataset refers to the geographic location of where these deaths occurred. The death counts are first grouped by the United States and then categorized by state. Each row has the location of occurrence, the week of the year, the total count of deaths for all causes, and then the number of deaths for the individual causes. 
+The dataset features a variety of useful fields such as the case number (DR_NO), the date the crime occurred (DATE OCC), the geographic area where the crime took place (AREA NAME), the type of crime (Crm Cd Desc), and whether a weapon was used (Weapon Desc). Additionally, geolocation information is provided through latitude and longitude fields (LAT, LON), enabling spatial analysis of crime patterns across Los Angeles.
 
-Through this information, we can analyze the cause of death trends and draw conclusions relating to the various factors that may have impacted these values.
+Through this information, we were able to analyze crime distribution and trends, examine the frequency of violent incidents, and explore how external factors—such as shifts in police funding—may have influenced overall crime rates in Los Angeles over the past five years.
 
 ## Question 1
 How do mortality trends for COVID-19 and Influenza & Pneumonia compare across different states from 2020-2023?
