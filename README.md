@@ -48,7 +48,7 @@ By focusing on high-crime regions and tracking these shifts over time, this anal
 
 ## Manipulations
 
-The manipulations for the first question is detailed in the previous section under the heat map. 
+The manipulations for the first question is detailed in the previous section under question 1's graphs. 
 
 For our second question, we used "Dr No" column to identify unique crime cases, counting them and putting them on the Rows section of the TABLEAU graph. We then put the "Year" element of "Date Occ" column to the Columns section. By doing these steps, we formed a graph that shows the increase and decrease of crime cases over the years. 
 
