@@ -32,7 +32,7 @@ This question is important because LA has one of the highest crime rates among m
 ## Question 2
 Has Defunding the Police Affected Crime in LA?
 
-![image](https://github.com/user-attachments/assets/19927928-f7dd-417f-b62f-8e76691c2d05)
+<img width="675" alt="Screenshot 2025-04-30 at 9 51 00 PM" src="https://github.com/user-attachments/assets/9f045c9c-a61d-4483-b637-28590d8961f1" />
 
 CHANGE THE GRAPH!
 To explore the impact of recent police budget changes, we asked: Has defunding the police affected crime in Los Angeles? This question is especially relevant given the national conversation around policing and public safety reform following 2020.
