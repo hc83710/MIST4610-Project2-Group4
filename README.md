@@ -34,7 +34,6 @@ Has Defunding the Police Affected Crime in LA?
 
 <img width="675" alt="Screenshot 2025-04-30 at 9 51 00 PM" src="https://github.com/user-attachments/assets/9f045c9c-a61d-4483-b637-28590d8961f1" />
 
-CHANGE THE GRAPH!
 To explore the impact of recent police budget changes, we asked: Has defunding the police affected crime in Los Angeles? This question is especially relevant given the national conversation around policing and public safety reform following 2020.
 
 We visualized this question using a line graph created in Tableau, which displays the annual number of reported crime cases in Los Angeles from 2020 to 2024. The graph focuses on the four LAPD areas with the highest cumulative crime counts: Central, 77th Street, Pacific, and Southwest. By filtering the dataset to include only these regions and organizing the results by year, we were able to observe meaningful patterns in crime trends.
