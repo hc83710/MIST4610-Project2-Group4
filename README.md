@@ -50,10 +50,7 @@ By focusing on high-crime regions and tracking these shifts over time, this anal
 
 (The manipulations for the first question is detailed in the previous section under question 1's graphs.)
 
-<img width="476" alt="image" src="https://github.com/user-attachments/assets/890a3bc1-5fd5-43ee-a78e-48b6ef16e5bc" />
-<img width="449" alt="image" src="https://github.com/user-attachments/assets/a8f6454e-e535-4d37-b785-96160d1d106f" />
-<img width="435" alt="image" src="https://github.com/user-attachments/assets/b32b9fea-3c83-448b-a556-7624376c196d" />
-
+<img width="477" alt="image" src="https://github.com/user-attachments/assets/5e01e28a-16d0-42a4-8414-b1cea8a4d807" />
 
 For our second question, we used "Dr No" column to identify unique crime cases, counting them and putting them on the Rows section of the TABLEAU graph. We then put the "Year" element of "Date Occ" column to the Columns section. By doing these steps, we formed a graph that shows the increase and decrease of crime cases over the years. 
 
