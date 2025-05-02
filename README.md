@@ -3,7 +3,7 @@
 ## Team Name: 
 61608 Group 4
 
-## Team Members:
+## Team Members (alphabetical):
 1. An, Ben [@benan03](https://github.com/benan03)
 2. Burt, Keegan[@keeganburt24](https://github.com/keeganburt24)
 3. Cheng, Hsin [@hc83710](https://github.com/hc83710)
